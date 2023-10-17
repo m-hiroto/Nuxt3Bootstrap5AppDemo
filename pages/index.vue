@@ -1,6 +1,8 @@
 <template>
-  <div class="container">
-    <h1>Hello</h1>
+  <div>
+    <h1 class="display-4">アコースティックギターの素晴らしさ</h1>
+    <p class="lead">アコースティックギターについての情報を共有します。</p>
   </div>
 </template>
+
 
