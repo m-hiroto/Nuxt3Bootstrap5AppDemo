@@ -1,8 +1,16 @@
 <template>
   <div>
     <AppHeader />
-    <AppAside />
-    <slot />
+    <main>
+      <AppAside />
+      <slot />
+    </main>
     <AppFooter />
+
   </div>
 </template>
+ 
+<script>
+</script>
+ 
+<style></style>
