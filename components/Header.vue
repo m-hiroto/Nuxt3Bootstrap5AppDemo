@@ -11,7 +11,7 @@
       >
         <span class="navbar-toggler-icon"></span>
       </button>
-      <nuxt-link  class="nav-link" to="/otherweb">エレキギター販売サイト</nuxt-link>
+      <nuxt-link  class="nav-link" to="/otherweb">価格別</nuxt-link>
       <button
         class="navbar-toggler"
         type="button"
@@ -23,13 +23,13 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <nuxt-link  class="nav-link" to="/info">商品情報</nuxt-link>
+            <nuxt-link  class="nav-link" to="/info">おすすめメーカー</nuxt-link>
           </li>
           <li class="nav-item">
-            <nuxt-link to="/contact" class="nav-link">お問い合わせ</nuxt-link>
+            <nuxt-link to="/contact" class="nav-link">初心者向け</nuxt-link>
           </li>
         </ul>
-        <img src="images/ギター.png">
+        
       </div>
     </div>
   </nav>
