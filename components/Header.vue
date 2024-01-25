@@ -1,4 +1,4 @@
-<template>
+ｚ<template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
       <nuxt-link to="/" class="navbar-brand">ホーム</nuxt-link>

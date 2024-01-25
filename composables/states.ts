@@ -1,6 +1,6 @@
-export const useRecipe = () => useState('recipe', () => {
+export const useGuitar = () => useState('guitar', () => {
     return {
-      title: "美味しさNo.1！KFC風フライドチキン",
+      title: "  アコースティックギター紹介サイト",
       description:
         "KFC人気レシピ1位！数あるKFCレシピ─どれも何か一味足りない気が。試行錯誤の末の主人も絶賛☆再現率の高いレシピです☆",
       material: [
