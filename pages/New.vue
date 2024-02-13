@@ -75,8 +75,8 @@ export default {
 
 .right-side {
   flex: 0.3;
-  max-height: 220px; /* 4行に合わせた適切な高さ */
-  overflow: auto; /* コンテンツが高さを超える場合はスクロールバーを表示 */
+  max-height: 220px;
+  overflow: auto;
   padding: 20px;
   background-color: #f5f5f5;
 }
